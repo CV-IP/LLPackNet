@@ -5,4 +5,15 @@ We show that we can enhance High Resolution,2848×4256, extremely dark single-im
 
 [![Watch the project video](https://raw.githubusercontent.com/MohitLamba94/LLPackNet/master/pics/video.png)](https://www.youtube.com/watch?v=nO6pizVH_qM&feature=youtu.be)
 
-### Page under development
+# Cite us
+If you find any information provided here useful please cite us,
+
+```
+@inproceedings{lamba2020LLPackNet,
+  title={Towards Fast and Light-Weight Restoration of Dark Images},
+  author={Lamba, Mohit and Balaji, Atul and Mitra, Kaushik},
+  booktitle={British Machine Vision Conference (BMVC) 2018},
+  year={2020},
+  organization={BMVC}
+}
+```
