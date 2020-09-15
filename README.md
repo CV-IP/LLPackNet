@@ -23,7 +23,7 @@ If you find any information provided here useful please cite us,
 @inproceedings{lamba2020LLPackNet,
   title={Towards Fast and Light-Weight Restoration of Dark Images},
   author={Lamba, Mohit and Balaji, Atul and Mitra, Kaushik},
-  booktitle={British Machine Vision Conference (BMVC) 2018},
+  booktitle={British Machine Vision Conference (BMVC) 2020},
   year={2020},
   organization={BMVC}
 }
